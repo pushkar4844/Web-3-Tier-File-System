@@ -27,3 +27,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 python app.py
 2024-05-01 :: update 0
+2024-05-01 :: update 1
